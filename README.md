@@ -54,7 +54,7 @@ The dataset simulates real-world logistics data with timestamp-based delivery ev
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](Screenshot 2025-12-23 173152.png)
+(Screenshot 2025-12-23 173152.png)
 
 ---
 
