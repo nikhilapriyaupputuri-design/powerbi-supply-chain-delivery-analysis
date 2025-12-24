@@ -2,19 +2,19 @@
 End to end Power BI dashboard analyzing supply chain delivery performance
 # Supply Chain Delivery Performance Analysis (Power BI)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes delivery performance and logistics delays using Power BI.
 The goal is to understand when and how delivery delays occur and measure on-time delivery efficiency.
 
 ---
 
-## 📂 Data Source
+##  Data Source
 Public supply chain logistics dataset sourced from Kaggle.
 The dataset simulates real-world logistics data with timestamp-based delivery events.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI Desktop
 - Power Query
 - DAX
@@ -22,7 +22,7 @@ The dataset simulates real-world logistics data with timestamp-based delivery ev
 
 ---
 
-## 🔄 Data Preparation
+##  Data Preparation
 - Cleaned raw logistics data
 - Split timestamp into date, hour, and day attributes
 - Created weekday vs weekend classification
@@ -30,7 +30,7 @@ The dataset simulates real-world logistics data with timestamp-based delivery ev
 
 ---
 
-## 📊 KPIs & Measures
+## KPIs & Measures
 - On-Time Deliveries
 - Delayed Deliveries
 - On-Time Delivery Percentage
@@ -38,7 +38,7 @@ The dataset simulates real-world logistics data with timestamp-based delivery ev
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 - KPI cards for overall delivery health
 - Hour-wise analysis of delivery deviation
 - On-time vs delayed delivery impact by hour
@@ -46,19 +46,19 @@ The dataset simulates real-world logistics data with timestamp-based delivery ev
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Delivery delays vary significantly by hour
 - Certain hours show higher delay impact
 - Weekday and weekend delivery performance differs
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 (Screenshot 2025-12-23 173152.png)
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Day-wise performance page
 - SLA-based delivery thresholds
 - Inventory and demand analytics extension
