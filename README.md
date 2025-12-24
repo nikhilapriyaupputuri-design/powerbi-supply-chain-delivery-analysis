@@ -54,8 +54,7 @@ The dataset simulates real-world logistics data with timestamp-based delivery ev
 ---
 
 ## Dashboard Preview
-![Dashboard Overview]powerbi-supply-chain-delivery-analysis
-/Screenshot 2025-12-23 173152.png
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ---
 
