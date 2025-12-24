@@ -103,7 +103,7 @@ Overview of delivery KPIs and hourly performance patterns
 
 ### Hour-wise Delivery Analysis  
 On-time vs delayed deliveries across different hours of the day  
-![Hourly Analysis](screenshots/hourly_analysis.png)
+![Hourly Analysis](screenshots/hour_analysis.png)
 
 ---
 
@@ -148,7 +148,7 @@ It can be shared upon request.
 
 ## Contact
 If you’d like to discuss this project or similar analytics work:
-- **LinkedIn:** (add your LinkedIn profile link here)
+- **LinkedIn:** 
 
  If you found this project useful, consider starring the repository.
 
